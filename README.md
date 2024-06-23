@@ -64,3 +64,11 @@ genai_app=gr.Interface(fn=Image_Generater,
 genai_app.launch(share=True,debug=True)
 ```
 
+## Screens
+
+#### App screen 1 :
+<kbd>![image](https://github.com/Nimisha-Mavar/-Image-Generator/assets/112267753/7f9c4e6a-ca8a-471a-a2bc-215bdb3ae104)</kbd>
+
+#### App screen 2 :
+<kbd>![image](https://github.com/Nimisha-Mavar/-Image-Generator/assets/112267753/38fbf868-e75f-40c6-a1bd-b08285de214e)
+</kbd>
