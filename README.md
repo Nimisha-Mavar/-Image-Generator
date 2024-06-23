@@ -1,5 +1,7 @@
 # ⛺ Image Generator with Generative Ai ⛺
 
+ This project demonstrates how to integrate pre-trained diffusion models for image generation into a user-friendly web application. It involves setting up the model pipeline, creating a function to generate images from text prompts, and building a web interface to make the model accessible to users. The use of Gradio simplifies the creation and deployment of the web application, making it easy to share and interact with the model.
+
 ### 🟢 Import Required Libraries
 ``` python 
 !pip install diffusers
